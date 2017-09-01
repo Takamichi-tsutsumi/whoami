@@ -1,0 +1,17 @@
+{
+  "full_name": "Takamichi Tsutsumi",
+  "age": 23,
+  "belongings": "Tokyo Institute of Technology",
+  "major": "Engineering Science and Design",
+  "like": [
+    "Basketball",
+    "Ed Sheeran",
+    "Coffee",
+    "ふかふかのベッド",
+    "sushi"
+  ],
+  "fish": "katsuo",
+  "good_at": "cooking eggs",
+  "programming": "JavaScript, React, Lisp(beginner)"
+}
+
